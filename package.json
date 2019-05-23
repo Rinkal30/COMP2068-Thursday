@@ -1,0 +1,23 @@
+{
+  "name": "comp2068-thursday",
+  "version": "1.0.0",
+  "description": "A blogging platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinkal30/COMP2068-Thursday.git"
+  },
+  "author": "Rinkal Vavadiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinkal30/COMP2068-Thursday/issues"
+  },
+  "homepage": "https://github.com/Rinkal30/COMP2068-Thursday#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
